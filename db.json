@@ -129,6 +129,69 @@
             "servingSize": "1.5",
             "calories": 164
           }
+        },
+        {
+          "1607612930520": {
+            "food": "broccoli",
+            "servingSize": "1.5",
+            "calories": 30
+          }
+        },
+        {
+          "1607612948332": {
+            "food": "lentils",
+            "servingSize": "3",
+            "calories": 690
+          }
+        },
+        {
+          "1607644452041": {
+            "food": "oreos",
+            "servingSize": "25",
+            "calories": 5750
+          }
+        },
+        {
+          "1607644477066": {
+            "food": "almonds",
+            "servingSize": "25",
+            "calories": 4100
+          }
+        },
+        {
+          "1607644526593": {
+            "food": "salt and vinegar chips",
+            "servingSize": "20",
+            "calories": 1800
+          }
+        },
+        {
+          "1607644598052": {
+            "food": "Apple",
+            "servingSize": "10",
+            "calories": 880
+          }
+        },
+        {
+          "1607647294865": {
+            "food": "eggs",
+            "servingSize": "1",
+            "calories": 400
+          }
+        },
+        {
+          "1607647349347": {
+            "food": "eggs",
+            "servingSize": "3",
+            "calories": 1200
+          }
+        },
+        {
+          "1607647546475": {
+            "food": "lentils",
+            "servingSize": "4",
+            "calories": 920
+          }
         }
       ]
     }
